@@ -1,0 +1,12 @@
+body{
+
+background-color: #d2b48c;
+}
+#app{
+    text-align: center;
+    font-size: 75px;
+}
+#subtext{
+    font-size: 50px;
+    padding-left: 100px;
+}
