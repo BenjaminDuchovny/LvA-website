@@ -5,6 +5,7 @@ background-color: #d2b48c;
 #app{
     text-align: center;
     font-size: 75px;
+    line-height: 0.3;
 }
 #subtext{
     font-size: 50px;
