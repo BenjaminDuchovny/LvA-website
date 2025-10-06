@@ -21,3 +21,24 @@ LVA1.png {
     height: 500px;
     width: 500px;
 }
+div.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+#h1{
+    font-size: 50px;
+    padding-left: 100px;
+}
+#links{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 200px;
+}
