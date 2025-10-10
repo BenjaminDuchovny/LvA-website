@@ -9,6 +9,15 @@ function counter(i)
         count = 0;
     document.getElementById('pic1').src=images[count];
 }
+var emojis = ["🌙", "☀️"]
+var thing = 0;
+function lightDark(){
+    thing+=1;
+    thing %= 2
+    document.getElementById('thing').innerHTML=emojis[thing];
+    document.body.classList.toggle('dark');
+}
+
 
 
 
